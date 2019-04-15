@@ -1,0 +1,25 @@
+.l {
+  float: left;
+}
+
+.r {
+  float: right;
+}
+
+.n {
+  font-weight: 400;
+}
+
+.b {
+  font-weight: 500;
+}
+
+.flex-v {
+  display: flex;
+  flex-direction: column;
+}
+
+.flex-h {
+  display: flex;
+  align-items: center;
+}
